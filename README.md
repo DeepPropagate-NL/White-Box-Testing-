@@ -18,7 +18,7 @@ junit、jacoco、maven
 
 以  Method3为例，在HelloWorldTest中仅对Method3进行了两次测试，导致Method3的语句覆盖率和分支覆盖率均未达到100%，如下所示：
 
-![image-20191115210743488](/Users/zhouhang/Library/Application Support/typora-user-images/image-20191115210743488.png)
+![image-20191115210743488](https://github.com/2019NJUSAT/White-Box-Testing-/blob/master/IMG/image-20191115210743488.png)
 
 其中绿色表示你的测试用例所覆盖的分支或语句，红色表示没有覆盖的分支或语句，黄色表示没有覆盖完全。
 
