@@ -10,7 +10,7 @@ junit、jacoco、maven
 
 1. 首先你需要将这份maven项目克隆至本地，并进入项目工程目录使用命令`mvn test`进行测试（你也可以选择将这个项目导入到Eclipse或Intellij等工具中在导航栏选择Run as maven test）；
 
-2. 随后你会发现在`/target/site/jacoco`目录下有一个产生了一个名字为`index.html`的文件（至于为什么会产生，请学习maven并查看pom.xml配置），在浏览器打开这个文件，你会看到下图：![image]https://github.com/2019NJUSAT/White-Box-Testing-/blob/master/IMG/image-20191115210656311.png
+2. 随后你会发现在`/target/site/jacoco`目录下有一个产生了一个名字为`index.html`的文件（至于为什么会产生，请学习maven并查看pom.xml配置），在浏览器打开这个文件，你会看到下图：![image](https://github.com/2019NJUSAT/White-Box-Testing-/blob/master/IMG/image-20191115210656311.png)
   
 
   
